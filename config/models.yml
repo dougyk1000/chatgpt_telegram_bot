@@ -1,10 +1,10 @@
-available_text_models: ["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4-1106-preview", "gpt-4-vision-preview", "gpt-4", "text-davinci-003"]
+available_text_models: ["𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-3.5-turbo", "𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-3.5-turbo-16k", "𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4-1106-preview", "𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4-vision-preview", "𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4", "text-davinci-003"]
 
 info:
   gpt-3.5-turbo:
     type: chat_completion
-    name: ChatGPT
-    description: ChatGPT is that well-known model. It's <b>fast</b> and <b>cheap</b>. Ideal for everyday tasks. If there are some tasks it can't handle, try the <b>GPT-4</b>.
+    name: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍
+    description: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍 is that well-known model. It's <b>fast</b> and <b>cheap</b>. Ideal for everyday tasks. If there are some tasks it can't handle, try the <b>𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4</b>.
 
     price_per_1000_input_tokens: 0.0015
     price_per_1000_output_tokens: 0.002
@@ -16,8 +16,8 @@ info:
 
   gpt-3.5-turbo-16k:
     type: chat_completion
-    name: GPT-16K
-    description: ChatGPT is that well-known model. It's <b>fast</b> and <b>cheap</b>. Ideal for everyday tasks. If there are some tasks it can't handle, try the <b>GPT-4</b>.
+    name: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-16K
+    description: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍 is that well-known model. It's <b>fast</b> and <b>cheap</b>. Ideal for everyday tasks. If there are some tasks it can't handle, try the <b>𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4</b>.
 
     price_per_1000_input_tokens: 0.003
     price_per_1000_output_tokens: 0.004
@@ -29,8 +29,8 @@ info:
 
   gpt-4:
     type: chat_completion
-    name: GPT-4
-    description: GPT-4 is the <b>smartest</b> and most advanced model in the world. But it is slower and not as cost-efficient as ChatGPT. Best choice for <b>complex</b> intellectual tasks.
+    name: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4
+    description: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4 is the <b>smartest</b> and most advanced model in the world. But it is slower and not as cost-efficient as 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍. Best choice for <b>complex</b> intellectual tasks.
 
     price_per_1000_input_tokens: 0.03
     price_per_1000_output_tokens: 0.06
@@ -42,8 +42,8 @@ info:
 
   gpt-4-1106-preview:
     type: chat_completion
-    name: GPT-4 Turbo
-    description: GPT-4 Turbo is a <b>faster</b> and <b>cheaper</b> version of GPT-4. It's as smart as GPT-4, so you should use it instead of GPT-4.
+    name: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4 Turbo
+    description: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4 Turbo is a <b>faster</b> and <b>cheaper</b> version of 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4. It's as smart as 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4, so you should use it instead of 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4.
 
     price_per_1000_input_tokens: 0.01
     price_per_1000_output_tokens: 0.03
@@ -55,8 +55,8 @@ info:
 
   gpt-4-vision-preview:
     type: chat_completion
-    name: GPT-4 Vision
-    description: Ability to <b>understand images</b>, in addition to all other GPT-4 Turbo capabilties.
+    name: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4 Vision
+    description: Ability to <b>understand images</b>, in addition to all other 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-4 Turbo capabilties.
 
     price_per_1000_input_tokens: 0.01
     price_per_1000_output_tokens: 0.03
@@ -68,8 +68,8 @@ info:
 
   text-davinci-003:
     type: completion
-    name: GPT-3.5
-    description: GPT-3.5 is a legacy model. Actually there is <b>no reason to use it</b>, because it is more expensive and slower than ChatGPT, but just about as smart.
+    name: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-3.5
+    description: 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍-3.5 is a legacy model. Actually there is <b>no reason to use it</b>, because it is more expensive and slower than 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒆𝒆𝒍, but just about as smart.
 
     price_per_1000_input_tokens: 0.02
     price_per_1000_output_tokens: 0.02
